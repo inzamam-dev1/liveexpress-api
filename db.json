@@ -105,5 +105,399 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cf91af0ad62b20612678a67b324401b3",
       "promoted": false
     }
+  ],
+
+  
+     "menus": [
+    {
+      "id": 1,
+      "resName": "Biryani House",
+      "menu": [
+        {
+          "name": "Chicken Biryani",
+          "price": 180,
+          "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=660"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 250,
+          "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=660"
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 150,
+          "img": "https://images.unsplash.com/photo-1645177625171-3c73bc2963e9?q=80&w=660"
+        },
+        {
+          "name": "Raita",
+          "price": 40,
+          "img": "https://images.unsplash.com/photo-1639024471283-035188835118?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "resName": "Pizza Palace",
+      "menu": [
+        {
+          "name": "Margherita",
+          "price": 199,
+          "img": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad50?q=80&w=660"
+        },
+        {
+          "name": "Farmhouse",
+          "price": 299,
+          "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=660"
+        },
+        {
+          "name": "Peppy Paneer",
+          "price": 279,
+          "img": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?q=80&w=660"
+        },
+        {
+          "name": "Cheese Burst",
+          "price": 349,
+          "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "resName": "Burger Hub",
+      "menu": [
+        {
+          "name": "Veg Burger",
+          "price": 99,
+          "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=660"
+        },
+        {
+          "name": "Cheese Burger",
+          "price": 129,
+          "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=660"
+        },
+        {
+          "name": "Chicken Burger",
+          "price": 149,
+          "img": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?q=80&w=660"
+        },
+        {
+          "name": "French Fries",
+          "price": 79,
+          "img": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "resName": "Momo Junction",
+      "menu": [
+        {
+          "name": "Veg Momos",
+          "price": 80,
+          "img": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b4?q=80&w=660"
+        },
+        {
+          "name": "Paneer Momos",
+          "price": 100,
+          "img": "https://images.unsplash.com/photo-1534422298391-e4f8c170db06?q=80&w=660"
+        },
+        {
+          "name": "Chicken Momos",
+          "price": 120,
+          "img": "https://images.unsplash.com/photo-1626074353765-517a681e40be?q=80&w=660"
+        },
+        {
+          "name": "Fried Momos",
+          "price": 140,
+          "img": "https://images.unsplash.com/photo-1635354519941-8f5f62df949e?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "resName": "South Spice",
+      "menu": [
+        {
+          "name": "Masala Dosa",
+          "price": 120,
+          "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=660"
+        },
+        {
+          "name": "Plain Dosa",
+          "price": 90,
+          "img": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?q=80&w=660"
+        },
+        {
+          "name": "Idli Sambhar",
+          "price": 80,
+          "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=660"
+        },
+        {
+          "name": "Vada Sambhar",
+          "price": 90,
+          "img": "https://images.unsplash.com/photo-1626132646549-9407137f8149?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "resName": "Tandoori Treats",
+      "menu": [
+        {
+          "name": "Tandoori Chicken",
+          "price": 320,
+          "img": "https://images.unsplash.com/photo-1599481238640-4c1288750d7a?q=80&w=660"
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "img": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?q=80&w=660"
+        },
+        {
+          "name": "Butter Naan",
+          "price": 40,
+          "img": "https://images.unsplash.com/photo-1601050638911-c3230a597587?q=80&w=660"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "resName": "Chinese Wok",
+      "menu": [
+        {
+          "name": "Veg Fried Rice",
+          "price": 140,
+          "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?q=80&w=660"
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 180,
+          "img": "https://images.unsplash.com/photo-1512058560374-1a646c1071d0?q=80&w=660"
+        },
+        {
+          "name": "Hakka Noodles",
+          "price": 160,
+          "img": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=660"
+        },
+        {
+          "name": "Manchurian",
+          "price": 150,
+          "img": "https://images.unsplash.com/photo-1562607311-73909774649f?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "resName": "Punjabi Dhaba",
+      "menu": [
+        {
+          "name": "Butter Chicken",
+          "price": 260,
+          "img": "https://images.unsplash.com/photo-1603894584104-11885918790f?q=80&w=660"
+        },
+        {
+          "name": "Shahi Paneer",
+          "price": 220,
+          "img": "https://images.unsplash.com/photo-1626777553731-97f2be8093f4?q=80&w=660"
+        },
+        {
+          "name": "Tandoori Roti",
+          "price": 25,
+          "img": "https://images.unsplash.com/photo-1593560704563-f176a2eb61db?q=80&w=660"
+        },
+        {
+          "name": "Jeera Rice",
+          "price": 140,
+          "img": "https://images.unsplash.com/photo-1596797038558-b129187363a2?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "resName": "Kebab King",
+      "menu": [
+        {
+          "name": "Seekh Kebab",
+          "price": 180,
+          "img": "https://images.unsplash.com/photo-1599481238332-6130addf9fe8?q=80&w=660"
+        },
+        {
+          "name": "Chicken Tikka",
+          "price": 220,
+          "img": "https://images.unsplash.com/photo-1599481238640-4c1288750d7a?q=80&w=660"
+        },
+        {
+          "name": "Rumali Roti",
+          "price": 30,
+          "img": "https://images.unsplash.com/photo-1601050638911-c3230a597587?q=80&w=660"
+        },
+        {
+          "name": "Mint Chutney",
+          "price": 20,
+          "img": "https://images.unsplash.com/photo-1630138245511-76677f525547?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "resName": "Veg Delight",
+      "menu": [
+        {
+          "name": "Veg Thali",
+          "price": 160,
+          "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=660"
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "price": 210,
+          "img": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?q=80&w=660"
+        },
+        {
+          "name": "Chapati",
+          "price": 20,
+          "img": "https://images.unsplash.com/photo-1626074353765-517a681e40be?q=80&w=660"
+        },
+        {
+          "name": "Dal Fry",
+          "price": 130,
+          "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "resName": "Roll Express",
+      "menu": [
+        {
+          "name": "Veg Roll",
+          "price": 90,
+          "img": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=660"
+        },
+        {
+          "name": "Paneer Roll",
+          "price": 120,
+          "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=660"
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 150,
+          "img": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=660"
+        },
+        {
+          "name": "Egg Roll",
+          "price": 110,
+          "img": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "resName": "Cafe Coffee Time",
+      "menu": [
+        {
+          "name": "Cappuccino",
+          "price": 120,
+          "img": "https://images.unsplash.com/photo-1534778101976-62847782c213?q=80&w=660"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 140,
+          "img": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?q=80&w=660"
+        },
+        {
+          "name": "Veg Sandwich",
+          "price": 100,
+          "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=660"
+        },
+        {
+          "name": "French Fries",
+          "price": 90,
+          "img": "https://images.unsplash.com/photo-1576107232684-1279f390859f?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "resName": "Street Food Adda",
+      "menu": [
+        {
+          "name": "Pani Puri",
+          "price": 40,
+          "img": "https://images.unsplash.com/photo-1601050638911-c3230a597587?q=80&w=660"
+        },
+        {
+          "name": "Aloo Tikki",
+          "price": 60,
+          "img": "https://images.unsplash.com/photo-1626132646549-9407137f8149?q=80&w=660"
+        },
+        {
+          "name": "Chaat Papdi",
+          "price": 70,
+          "img": "https://images.unsplash.com/photo-1517244492160-d45ad7dd47c1?q=80&w=660"
+        },
+        {
+          "name": "Dahi Bhalla",
+          "price": 80,
+          "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "resName": "Ice Cream Factory",
+      "menu": [
+        {
+          "name": "Vanilla Scoop",
+          "price": 60,
+          "img": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?q=80&w=660"
+        },
+        {
+          "name": "Chocolate Scoop",
+          "price": 70,
+          "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?q=80&w=660"
+        },
+        {
+          "name": "Strawberry Scoop",
+          "price": 70,
+          "img": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=660"
+        },
+        {
+          "name": "Chocolate Sundae",
+          "price": 120,
+          "img": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?q=80&w=660"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "resName": "Healthy Bites",
+      "menu": [
+        {
+          "name": "Grilled Sandwich",
+          "price": 140,
+          "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=660"
+        },
+        {
+          "name": "Veg Salad",
+          "price": 120,
+          "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=660"
+        },
+        {
+          "name": "Fruit Bowl",
+          "price": 110,
+          "img": "https://images.unsplash.com/photo-1519996529931-28324d5a630e?q=80&w=660"
+        },
+        {
+          "name": "Green Smoothie",
+          "price": 150,
+          "img": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?q=80&w=660"
+        }
+      ]
+    }
   ]
 }
